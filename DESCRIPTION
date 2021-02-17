@@ -1,0 +1,24 @@
+Package: pwexp
+Type: Package
+Title: Implementation of piecewise exponential distribution
+Version: 0.1.0
+Author: Mark Jones
+Maintainer: Mark Jones <yourself@somewhere.net>
+Description: Provides density, hazard, cumulative hazard, cdf and \
+    survival functions for piecewise exponential. Includes inverse cdf \
+    approach for simulating random draws.
+License: GPL-2
+URL: https://github.com/maj-biostat/pwexp
+BugReports: https://github.com/maj-biostat/pwexp/issues
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.1.0)
+LinkingTo: 
+Imports: 
+Suggests: 
+SystemRequirements: 
+RoxygenNote: 7.1.1
+NeedsCompilation: no
+Packaged: 
+Repository: 
+
